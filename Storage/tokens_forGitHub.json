@@ -1,0 +1,12 @@
+{
+    "d_token" : "[REDACTED]",
+	"adminID" : "[REDACTED]",
+    "prefix" : ">",
+	"passes" : 2,
+	"meme" : "[REDACTED]",
+	"bot_token" : "[REDACTED]",
+	"GoogleCSE" : {
+		"CSEid" : "[REDACTED]",
+		"APIkey" : "[REDACTED]"
+	}
+}

@@ -1,0 +1,38 @@
+{
+
+    "Ping": {
+        "name":"Ping Command",
+        "type":"Command",
+        "price":"100/-",
+        "desc":"Purchasing this item grants access to use the ping command."
+    },
+
+    "Pocari Manager": {
+        "name":"Pocari Manager Role",
+        "type":"Role",
+        "price":"50000/-",
+        "desc":"Purchasing this item grants access to manage Pocari."
+    },
+
+    "Message": {
+        "name":"Message Command",
+        "type":"Command",
+        "price":"500/-",
+        "desc":"Purchasing this item grants the ability to use the message command."
+    },
+
+    "Converter": {
+        "name":"Convert Command",
+        "type":"Command",
+        "price":"500/-",
+        "desc":"Purchasing this item grants the ability to use the converter tool."
+    },
+
+    "Weather": {
+        "name":"Weather Command",
+        "type":"Command",
+        "price":"500/-",
+        "desc":"Purchasing this item grants the ability to use the weather tool."
+    }
+
+}

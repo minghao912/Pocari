@@ -1,0 +1,36 @@
+{
+	"Help": {
+		"name":"Help",
+		"group":"User",
+		"desc":"Displays a list of commands.",
+		"usage":"help [group OR command]"
+	},
+	
+	"Hook": {
+		"name":"Hook",
+		"group":"User",
+		"desc":"Returns a hook in the channel.",
+		"usage":"hook <title>, <description>, [color], [avatarURL]"
+	},
+
+	"Weather": {
+		"name":"Weather",
+		"group":"User",
+		"desc":"Returns the weather of a specific location",
+		"usage":"weather[_C/_F/_K/_RE] <location>"
+	},
+
+	"Purge": {
+		"name":"Purge",
+		"group":"Moderator",
+		"desc":"Clears a specified number of messages.",
+		"usage":"purge <messages>"
+	},
+
+	"Ping": {
+		"name":"Ping",
+		"group":"User",
+		"desc":"Simple latency test",
+		"usage":"Ping? **[Prefix not required]**"
+	}
+}

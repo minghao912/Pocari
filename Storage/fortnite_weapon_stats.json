@@ -1,0 +1,488 @@
+{
+    "ASSAULTRIFLE":{
+        "BURST":{
+            "ICON":"http://pocari.tk/fortnite_weapon_icons/assault-rifle-burst.png",
+            "COMMON":{
+                "DPS":"47.2",
+                "Damage":"27 (67.5)",
+                "EnvDamage":"30",
+                "FireRate":"1.75",
+                "Magazine":"30",
+                "ReloadTime":"2.9s"
+            },
+            "UNCOMMON":{
+                "DPS":"50.8",
+                "Damage":"29 (72.5)",
+                "EnvDamage":"30",
+                "FireRate":"1.75",
+                "Magazine":"30",
+                "ReloadTime":"2.7s"
+            },
+            "RARE":{
+                "DPS":"52.5",
+                "Damage":"30 (75)",
+                "EnvDamage":"30",
+                "FireRate":"1.75",
+                "Magazine":"30",
+                "ReloadTime":"2.6s"
+            }
+        },
+        "M4":{
+            "ICON":"http://pocari.tk/fortnite_weapon_icons/assault-rifle-m4.png",
+            "COMMON":{
+                "DPS":"165",
+                "Damage":"30 (60)",
+                "EnvDamage":"33",
+                "FireRate":"5.5",
+                "Magazine":"30",
+                "ReloadTime":"2.3s"
+            },
+            "UNCOMMON":{
+                "DPS":"170.5",
+                "Damage":"31 (62)",
+                "EnvDamage":"33",
+                "FireRate":"5.5",
+                "Magazine":"30",
+                "ReloadTime":"2.2s"
+            },
+            "RARE":{
+                "DPS":"181.5",
+                "Damage":"33 (66)",
+                "EnvDamage":"33",
+                "FireRate":"5.5",
+                "Magazine":"30",
+                "ReloadTime":"2.2s"
+            }
+        },
+        "SCAR":{
+            "ICON":"http://pocari.tk/fortnite_weapon_icons/assault-rifle-scar.png",
+            "EPIC":{
+                "DPS":"192.5",
+                "Damage":"35 (70)",
+                "EnvDamage":"33",
+                "FireRate":"5.5",
+                "Magazine":"30",
+                "ReloadTime":"2.1s"
+            },
+            "LEGENDARY":{
+                "DPS":"198",
+                "Damage":"36 (70)",
+                "EnvDamage":"33",
+                "FireRate":"5.5",
+                "Magazine":"30",
+                "ReloadTime":"2.1s"
+            }
+        },
+        "SCOPED":{
+            "ICON":"http://pocari.tk/fortnite_weapon_icons/assault-rifle-scoped.png",
+            "RARE":{
+                "DPS":"80.5",
+                "Damage":"23 (46)",
+                "EnvDamage":"40",
+                "FireRate":"3.5",
+                "Magazine":"20",
+                "ReloadTime":"2.3s"
+            },
+            "EPIC":{
+                "DPS":"84",
+                "Damage":"24 (48)",
+                "EnvDamage":"40",
+                "FireRate":"3.5",
+                "Magazine":"20",
+                "ReloadTime":"2.2s"
+            }
+        }
+    },
+    "MINIGUN":{
+        "REGULAR":{
+            "ICON":"http://pocari.tk/fortnite_weapon_icons/minigun.png",
+            "EPIC":{
+                "DPS":"192",
+                "Damage":"16 (40)",
+                "EnvDamage":"25",
+                "FireRate":"12",
+                "Magazine":"0",
+                "ReloadTime":"4.8s"
+            },
+            "LEGENDARY":{ 
+                "DPS":"204",
+                "Damage":"17 (42.5)",
+                "EnvDamage":"25",
+                "FireRate":"12",
+                "Magazine":"0",
+                "ReloadTime":"4.5s"
+            }
+        }
+    },
+    "SHOTGUN":{
+        "PUMP":{
+            "ICON":"http://pocari.tk/fortnite_weapon_icons/pump-shotgun.png",
+            "COMMON":{
+                "DPS":"63",
+                "Damage":"10/18/63/90 (25/45/157.5/225)",
+                "EnvDamage":"10",
+                "FireRate":"0.7",
+                "Magazine":"5",
+                "ReloadTime":"4.8s"  
+            },
+            "UNCOMMON":{
+                "DPS":"66.5",
+                "Damage":"10/19/66.5/95 (25/47.5/166.25/237.5)",
+                "EnvDamage":"10",
+                "FireRate":"0.7",
+                "Magazine":"5",
+                "ReloadTime":"4.6s"  
+            }
+        },
+        "TACTICAL":{
+            "ICON":"http://pocari.tk/fortnite_weapon_icons/tactical-shotgun.png",
+            "UNCOMMON":{
+                "DPS":"100.5",
+                "Damage":"10/13.4/46.9/67 (25/33.5/117.25/167.5)",
+                "EnvDamage":"7",
+                "FireRate":"1.5",
+                "Magazine":"8",
+                "ReloadTime":"6.3s"  
+            },
+            "RARE":{
+                "DPS":"105",
+                "Damage":"10/14/49/70 (25/35/122.5/175)",
+                "EnvDamage":"7",
+                "FireRate":"1.5",
+                "Magazine":"8",
+                "ReloadTime":"6.0s"
+            },
+            "EPIC":{
+                "DPS":"111",
+                "Damage":"10/14.8/51.8/74 (25/37/129.5/185)",
+                "EnvDamage":"7",
+                "FireRate":"1.5",
+                "Magazine":"8",
+                "ReloadTime":"5.7s"   
+            }
+        }
+    },
+    "HANDCANNON":{
+        "REGULAR":{
+            "ICON":"http://pocari.tk/fortnite_weapon_icons/hand-cannon.png",
+            "EPIC":{
+                "DPS":"60",
+                "Damage":"75",
+                "EnvDamage":"75 (187.5)",
+                "FireRate":"0.8",
+                "Magazine":"7",
+                "ReloadTime":"2.1s" 
+            },
+            "LEGENDARY":{
+                "DPS":"62.4",
+                "Damage":"78 (195)",
+                "EnvDamage":"75",
+                "FireRate":"0.8",
+                "Magazine":"7",
+                "ReloadTime":"2.0s" 
+            }
+        }
+    },
+    "PISTOL":{
+        "REGULAR":{
+            "ICON":"http://pocari.tk/fortnite_weapon_icons/pistol.png",
+            "COMMON":{
+                "DPS":"155.2",
+                "Damage":"23 (57.5)",
+                "EnvDamage":"25",
+                "FireRate":"6.75",
+                "Magazine":"16",
+                "ReloadTime":"1.5s"
+            },
+            "UNCOMMON":{
+                "DPS":"162",
+                "Damage":"24 (60)",
+                "EnvDamage":"25",
+                "FireRate":"6.75",
+                "Magazine":"16",
+                "ReloadTime":"1.5s"
+            },
+            "RARE":{
+                "DPS":"168.8",
+                "Damage":"25 (62.5)",
+                "EnvDamage":"25",
+                "FireRate":"6.75",
+                "Magazine":"16",
+                "ReloadTime":"1.4s"
+            }
+        }
+    },
+    "REVOLVER":{
+        "REGULAR":{
+            "ICON":"http://pocari.tk/fortnite_weapon_icons/revolver.png",
+            "COMMON":{
+                "DPS":"48.6",
+                "Damage":"54 (135)",
+                "EnvDamage":"60",
+                "FireRate":"0.9",
+                "Magazine":"6",
+                "ReloadTime":"2.4s"
+            },
+            "UNCOMMON":{
+                "DPS":"51.3",
+                "Damage":"57 142.5)",
+                "EnvDamage":"60",
+                "FireRate":"0.9",
+                "Magazine":"6",
+                "ReloadTime":"2.3s"
+            },
+            "RARE":{
+                "DPS":"54",
+                "Damage":"60 (150)",
+                "EnvDamage":"60",
+                "FireRate":"0.9",
+                "Magazine":"6",
+                "ReloadTime":"2.2s"
+            }
+        }
+    },
+    "SUPPRESSEDPISTOL":{
+        "REGULAR":{
+            "ICON":"http://pocari.tk/fortnite_weapon_icons/suppressed-pistol.png",
+            "EPIC":{
+                "DPS":"175.5",
+                "Damage":"26 (65)",
+                "EnvDamage":"25",
+                "FireRate":"6.75",
+                "Magazine":"16",
+                "ReloadTime":"1.3s"
+            },
+            "LEGENDARY":{
+                "DPS":"189",
+                "Damage":"28 (70)",
+                "EnvDamage":"25",
+                "FireRate":"6.75",
+                "Magazine":"16",
+                "ReloadTime":"1.3s"
+            }
+        }
+    },
+    "SUBMACHINEGUN":{
+        "REGULAR":{
+            "ICON":"http://pocari.tk/fortnite_weapon_icons/submachine-gUN.png",
+            "COMMON":{
+                "DPS":"210",
+                "Damage":"14 (35)",
+                "EnvDamage":"16",
+                "FireRate":"15",
+                "Magazine":"35",
+                "ReloadTime":"2.2s"
+            },
+            "UNCOMMON":{
+                "DPS":"225",
+                "Damage":"15 (37.5)",
+                "EnvDamage":"16",
+                "FireRate":"15",
+                "Magazine":"35",
+                "ReloadTime":"2.1s"   
+            },
+            "RARE":{
+                "DPS":"240",
+                "Damage":"16 (40)",
+                "EnvDamage":"16",
+                "FireRate":"15",
+                "Magazine":"35",
+                "ReloadTime":"2.0s"
+            }
+        },
+        "SUPPRESSED":{
+            "ICON":"http://pocari.tk/fortnite_weapon_icons/suppressed-submachine-gUN.png",
+            "COMMON":{
+                "DPS":"153",
+                "Damage":"17 (42.5)",
+                "EnvDamage":"19",
+                "FireRate":"9",
+                "Magazine":"30",
+                "ReloadTime":"2.2s"
+            },
+            "UNCOMMON":{
+                "DPS":"162",
+                "Damage":"18 (45)",
+                "EnvDamage":"19",
+                "FireRate":"9",
+                "Magazine":"30",
+                "ReloadTime":"2.1s"
+            },
+            "RARE":{
+                "DPS":"171",
+                "Damage":"19 (47.5)",
+                "EnvDamage":"19",
+                "FireRate":"9",
+                "Magazine":"30",
+                "ReloadTime":"2.0s"
+            }
+        },
+        "TACTICAL":{
+            "ICON":"http://pocari.tk/fortnite_weapon_icons/tactical-submachine-gUN.png",
+            "UNCOMMON":{
+                "DPS":"208",
+                "Damage":"16 (40)",
+                "EnvDamage":"17",
+                "FireRate":"13",
+                "Magazine":"35",
+                "ReloadTime":"2.4s"
+            },
+            "RARE":{
+                "DPS":"221",
+                "Damage":"17 (42.5)",
+                "EnvDamage":"17",
+                "FireRate":"13",
+                "Magazine":"35",
+                "ReloadTime":"2.4s"
+            },
+            "EPIC":{
+                "DPS":"234",
+                "Damage":"18 (45)",
+                "EnvDamage":"17",
+                "FireRate":"13",
+                "Magazine":"35",
+                "ReloadTime":"2.2s"
+            }
+        }
+    },
+    "SNIPERRIFLE":{
+        "BOLT-ACTION":{
+            "ICON":"http://pocari.tk/fortnite_weapon_icons/bolt-action-sniper-rifle.png",
+            "RARE":{
+                "DPS":"34.7",
+                "Damage":"105 (70)",
+                "EnvDamage":"105",
+                "FireRate":"0.33",
+                "Magazine":"1",
+                "ReloadTime":"3.0s"
+            },
+            "EPIC":{
+                "DPS":"36.3",
+                "Damage":"110 (70)",
+                "EnvDamage":"105",
+                "FireRate":"0.33",
+                "Magazine":"1",
+                "ReloadTime":"2.8s"
+            },
+            "LEGENDARY":{
+                "DPS":"38.3",
+                "Damage":"116 (70)",
+                "EnvDamage":"105",
+                "FireRate":"0.33",
+                "Magazine":"1",
+                "ReloadTime":"2.7s"
+            }
+        },
+        "SEMI-AUTO":{
+            "ICON":"http://pocari.tk/fortnite_weapon_icons/semi-auto-sniper-rifle.png",
+            "EPIC":{
+                "DPS":"75.6",
+                "Damage":"63 (157.5)",
+                "EnvDamage":"40",
+                "FireRate":"1.2",
+                "Magazine":"10",
+                "ReloadTime":"2.5s"
+            },
+            "LEGENDARY":{
+                "DPS":"79.2",
+                "Damage":"66 (165)",
+                "EnvDamage":"40",
+                "FireRate":"1.2",
+                "Magazine":"10",
+                "ReloadTime":"2.3s"
+            }
+        }
+    },
+    "CROSSBOW":{
+        "REGULAR":{
+            "ICON":"http://pocari.tk/fortnite_weapon_icons/crossbow.png",
+            "RARE":{
+                "DPS":"45",
+                "Damage":"75 (187.5)",
+                "EnvDamage":"0",
+                "FireRate":"0.6",
+                "Magazine":"5",
+                "ReloadTime":"2.6s"
+            },
+            "EPIC":{
+                "DPS":"47.4",
+                "Damage":"79 (197.5)",
+                "EnvDamage":"0",
+                "FireRate":"0.6",
+                "Magazine":"5",
+                "ReloadTime":"2.5s"   
+            }
+        }
+    },
+    "ZAPOTRON":{
+        "REGULAR":{
+            "ICON":"http://pocari.tk/fortnite_weapon_icons/zapotron.png",
+            "LEGENDARY":{
+                "DPS":"50",
+                "Damage":"50 (125)",
+                "EnvDamage":"1000",
+                "FireRate":"1",
+                "Magazine":"4",
+                "ReloadTime":"2.1s"   
+            }
+        }
+    },
+    "LAUNCHER":{
+        "GRENADE":{
+            "ICON":"http://pocari.tk/fortnite_weapon_icons/grenade-laUNcher.png",
+            "RARE":{
+                "DPS":"100",
+                "Damage":"100 (100)",
+                "EnvDamage":"375",
+                "FireRate":"1",
+                "Magazine":"6",
+                "ReloadTime":"3.0s"   
+            },
+            "EPIC":{
+                "DPS":"105",
+                "Damage":"105 (105)",
+                "EnvDamage":"375",
+                "FireRate":"1",
+                "Magazine":"6",
+                "ReloadTime":"2.8s"
+            },
+            "LEGENDARY":{
+                "DPS":"110",
+                "Damage":"110 (110)",
+                "EnvDamage":"375",
+                "FireRate":"1",
+                "Magazine":"6",
+                "ReloadTime":"2.7s"
+            }
+        },
+        "ROCKET":{
+            "ICON":"http://pocari.tk/fortnite_weapon_icons/rocket-laUNcher.png",
+            "RARE":{
+                "DPS":"82.5",
+                "Damage":"110 (125)",
+                "EnvDamage":"375",
+                "FireRate":"0.75",
+                "Magazine":"1",
+                "ReloadTime":"2.3s"
+            },
+            "EPIC":{
+                "DPS":"87",
+                "Damage":"116 (125)",
+                "EnvDamage":"375",
+                "FireRate":"0.75",
+                "Magazine":"1",
+                "ReloadTime":"2.2s"
+            },
+            "LEGENDARY":{
+                "DPS":"90.8",
+                "Damage":"121 (125)",
+                "EnvDamage":"375",
+                "FireRate":"0.75",
+                "Magazine":"1",
+                "ReloadTime":"2.1s"
+            }
+        }
+    },
+    "PullDate":"22/02/2018",
+    "PullVer":"v3.0.0"
+}
